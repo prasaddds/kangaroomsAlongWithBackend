@@ -90,7 +90,7 @@
       <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for cities..">
 
       <ul id="myUL">
-                    <li><a href="kangarooms-Agartala.php">Agartala</a></li>
+                    <li><a href="kangarooms-Agaratala.php">Agartala</a></li>
                     <li><a href="kangarooms-Aizawl.php">Aizawl</a></li>
                     <li><a href="kangarooms-Amaravathi.php">Amaravathi</a></li>
                     <li><a href="kangarooms-Bengaluru.php">Bengaluru</a></li>
